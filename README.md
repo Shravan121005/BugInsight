@@ -105,7 +105,7 @@ BugInsight/
 
 ---
 
-## 📊 Dataset
+## 📊 Dataset - Long Lived Bug Prediction(Kaggle)
 
 The model is trained on a real-world software bug dataset containing:
 
