@@ -1,4 +1,14 @@
 # 🐞 BugInsight - GitHub Issue Severity & Resolution Time Prediction
+uvicorn api.main:app 
+
+{
+  "summary": "VS Code crashes while opening terminal",
+  "description": "The application crashes whenever a new terminal is created.",
+  "component_name": "Terminal",
+  "product_name": "Firefox",
+  "quantity_of_votes": 12,
+  "quantity_of_comments": 5
+}
 
 BugInsight is an end-to-end Machine Learning application that predicts the **severity** of a software bug and estimates its **resolution time** from a bug report.
 
